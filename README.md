@@ -1,7 +1,5 @@
 ## About Me
 
----
-
 Hi, I'm **Margono Andri Hastiko**, and I'm on an exciting journey to begin my career as a Software Quality Assurance.
 Although I don’t have professional work experience in SQA yet, I have been actively learning through online courses on platforms like Udemy, where I gained knowledge about testing concepts, methodologies, and tools. I also completed a Full Stack Web Developer Bootcamp at Binar Academy, which gave me hands-on experience in web development and a strong understanding of the software development lifecycle.
 Previously, I worked as a store crew and cleaning service staff. While those jobs were outside the tech field, they helped me develop valuable skills such as discipline, responsibility, problem-solving, teamwork and I believe are valuable in SQA work.
@@ -9,9 +7,9 @@ I am eager to keep learning, sharpen my skills, and contribute to building relia
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgoandri.has@gmail.com)
 
-## Skills & Tools
+&nbsp;
 
----
+## Skills & Tools
 
 I learned the fundamentals of Software Quality Assurance through Udemy, including how to create test cases, write bug reports, and work with QA tools. At Binar Academy, I studied Full Stack Web Development and gained experience with HTML, CSS, JavaScript, PostgreSQL, and frameworks such as Node.js, Express.js, and React.js. These experiences gave me a strong foundation to start my journey in Software Quality Assurance.
 
@@ -25,7 +23,7 @@ I learned the fundamentals of Software Quality Assurance through Udemy, includin
 ### Tools:
 
 - [Git](https://git-scm.com) & [GitHub](https://github.com/) – Version control and collaboration platform for managing code repositories.
-- Google Sheets, [Trello](https://trello.com/) – Tools for organizing tasks, tracking progress, and team collaboration.
+- [Google Sheets](https://workspace.google.com/intl/en_id/products/sheets/), [Trello](https://trello.com/) – Tools for organizing tasks, tracking progress, and team collaboration.
 - [Postman](https://www.postman.com) – API testing tool for sending requests, validating responses, and automating workflows.
 - [JMeter](https://jmeter.apache.org) – Performance testing tool for analyzing application load, stress, and scalability.
 - [Cypress](https://www.cypress.io) – End-to-end testing framework for automating web application testing.
@@ -34,9 +32,9 @@ I learned the fundamentals of Software Quality Assurance through Udemy, includin
 - [Node.js](https://nodejs.org/en/about) & [Express.js](https://expressjs.com) – JavaScript runtime and framework for building server-side applications and APIs.
 - [React.js](https://react.dev) – Front-end JavaScript library for building interactive user interfaces.
 
-## My Personal Projects
+&nbsp;
 
----
+## My Personal Projects
 
 These projects reflect my learning journey, from writing test cases and exploring QA tools to building web applications with modern technologies. Each project has helped me improve my problem-solving abilities, strengthen my technical knowledge, and gain hands-on experience that supports my career goals.
 
@@ -47,14 +45,13 @@ SauceDemo is a web-based e-commerce demo application created by Sauce Labs for p
 - [Test Plan](https://docs.google.com/document/d/1K6Uy9S0fTBt9BNnOB806961vkUsOdrP_85xaJaBhA7I/edit?usp=sharing)
 - [Test Scenarios](https://docs.google.com/spreadsheets/d/1HHHzich7DSBRshUM52Oa4IALYVs_Kr4EQYWsYU_KzLg/edit?usp=sharing)
 - [Test Case](https://docs.google.com/spreadsheets/d/1siENwPxA8oznJOxxzRvNe0JyzJR890y4UB6dI8cOJgQ/edit?usp=sharing)
-- [Bug Report]()
-- [Test Report]()
+  <!-- - [Bug Report]() -->
+  <!-- - [Test Report]() -->
+  &nbsp;
 
 ## Learning & Certifications
 
----
-
 - [Udemy - Postman API Testing](https://www.udemy.com/course/postman-api-automation-testing-with-javascript) - [Certificate](https://www.udemy.com/certificate/UC-3f401565-a19a-424a-94d6-159f6c4a77b6/)
-- [Udemy - JMeter Performance Testing](https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool) - [Certificate]()
-- [Udemy - Cypress Automation Testing](https://www.udemy.com/course/postman-api-automation-testing-with-javascript) - [Certificate]()
+  <!-- - [Udemy - JMeter Performance Testing](https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool) - [Certificate]() -->
+- [Udemy - Cypress Automation Testing](https://www.udemy.com/course/postman-api-automation-testing-with-javascript) - [Certificate](https://www.udemy.com/certificate/UC-96c1241d-638f-4906-bedc-c6d3bd68eb6f/)
 - [Binar Academy - Full Stack Web Developer](https://www.binar.co.id) - [Certificate](https://drive.google.com/file/d/11Dv_lXRk7sCwNh85ci1BSF4dqPhp0kpg/view)
