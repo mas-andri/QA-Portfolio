@@ -45,7 +45,7 @@ SauceDemo is a web-based e-commerce demo application created by Sauce Labs for p
 - [Test Plan](https://docs.google.com/document/d/1K6Uy9S0fTBt9BNnOB806961vkUsOdrP_85xaJaBhA7I/edit?usp=sharing)
 - [Test Scenarios](https://docs.google.com/spreadsheets/d/1HHHzich7DSBRshUM52Oa4IALYVs_Kr4EQYWsYU_KzLg/edit?usp=sharing)
 - [Test Case](https://docs.google.com/spreadsheets/d/1siENwPxA8oznJOxxzRvNe0JyzJR890y4UB6dI8cOJgQ/edit?usp=sharing)
-  <!-- - [Bug Report]() -->
+- [Bug Report](https://docs.google.com/spreadsheets/d/1Q4bFDRCV8Ad1ow6YMq5RU1CE6hG92h_gueQNyJibQYY/edit?usp=sharing)
   <!-- - [Test Report]() -->
   &nbsp;
 
@@ -54,4 +54,5 @@ SauceDemo is a web-based e-commerce demo application created by Sauce Labs for p
 - [Udemy - Postman API Testing](https://www.udemy.com/course/postman-api-automation-testing-with-javascript) - [Certificate](https://www.udemy.com/certificate/UC-3f401565-a19a-424a-94d6-159f6c4a77b6/)
   <!-- - [Udemy - JMeter Performance Testing](https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool) - [Certificate]() -->
 - [Udemy - Cypress Automation Testing](https://www.udemy.com/course/postman-api-automation-testing-with-javascript) - [Certificate](https://www.udemy.com/certificate/UC-96c1241d-638f-4906-bedc-c6d3bd68eb6f/)
+- [Udemy - The Complete SQL Bootcamp (PostgreSQL)](https://www.udemy.com/course/the-complete-sql-bootcamp/) - [Certificate](https://www.udemy.com/certificate/UC-23157a9b-51e8-42f5-b032-dfa7717e2703/)
 - [Binar Academy - Full Stack Web Developer](https://www.binar.co.id) - [Certificate](https://drive.google.com/file/d/11Dv_lXRk7sCwNh85ci1BSF4dqPhp0kpg/view)
