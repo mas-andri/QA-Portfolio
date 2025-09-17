@@ -5,7 +5,7 @@ Although I don’t have professional work experience in SQA yet, I have been act
 Previously, I worked as a store crew and cleaning service staff. While those jobs were outside the tech field, they helped me develop valuable skills such as discipline, responsibility, problem-solving, teamwork and I believe are valuable in SQA work.
 I am eager to keep learning, sharpen my skills, and contribute to building reliable, high-quality software as I begin this new career path in SQA.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgoandri.has@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masandri) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgoandri.has@gmail.com)
 
 &nbsp;
 
