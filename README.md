@@ -15,9 +15,9 @@ I learned the fundamentals of Software Quality Assurance through Udemy, includin
 
 ### Skills:
 
-- Manual Testing - Creating and executing detailed test plans, test scenario, test cases, and bug reports.
-- API Testing: Validating data exchange, business logic, and endpoints without a graphical user interface.
-- Performance Testing: Assessing application responsiveness, stability, and scalability under load.
+- Manual Testing – Creating and executing detailed test plans, test scenario, test cases, and bug reports.
+- API Testing – Validating data exchange, business logic, and endpoints without a graphical user interface.
+- Performance Testing – Assessing application responsiveness, stability, and scalability under load.
 - Automation Testing - Designing, developing, and maintaining automated test scripts for regression testing.
 
 ### Tools:
@@ -46,6 +46,7 @@ SauceDemo is a web-based e-commerce demo application created by Sauce Labs for p
 - [Test Scenarios](https://docs.google.com/spreadsheets/d/1HHHzich7DSBRshUM52Oa4IALYVs_Kr4EQYWsYU_KzLg/edit?usp=sharing)
 - [Test Case](https://docs.google.com/spreadsheets/d/1siENwPxA8oznJOxxzRvNe0JyzJR890y4UB6dI8cOJgQ/edit?usp=sharing)
 - [Bug Report](https://docs.google.com/spreadsheets/d/1Q4bFDRCV8Ad1ow6YMq5RU1CE6hG92h_gueQNyJibQYY/edit?usp=sharing)
+- [End-to-End Testing with Cypress](https://github.com/mas-andri/QA-SauceDemo-CypressAutomation.git)
   <!-- - [Test Report]() -->
   &nbsp;
 
