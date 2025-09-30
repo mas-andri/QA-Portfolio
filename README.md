@@ -36,19 +36,36 @@ I learned the fundamentals of Software Quality Assurance through Udemy, includin
 
 ## My Personal Projects
 
-These projects reflect my learning journey, from writing test cases and exploring QA tools to building web applications with modern technologies. Each project has helped me improve my problem-solving abilities, strengthen my technical knowledge, and gain hands-on experience that supports my career goals.
+These projects reflect my learning journey, from writing test cases to exploring QA tools. Each project has helped me improve my problem-solving abilities and strengthen my technical knowledge
 
 ### Saucedemo - Testing Project
 
-SauceDemo is a web-based e-commerce demo application created by Sauce Labs for practicing and testing software quality assurance, automation, and performance testing. The application simulates a simple online store where users can log in, browse products, add items to a cart, sort products, proceed through a checkout process, and log out. Website URL: <https://www.saucedemo.com>
+SauceDemo is a web-based e-commerce demo application created by Sauce Labs for practicing and testing software quality assurance, automation, and performance testing. The application simulates a simple online store where users can log in, browse products, add items to a cart, sort products, proceed through a checkout process, and log out.
+
+Website URL: <https://www.saucedemo.com>
 
 - [Test Plan](https://docs.google.com/document/d/1K6Uy9S0fTBt9BNnOB806961vkUsOdrP_85xaJaBhA7I/edit?usp=sharing)
 - [Test Scenarios](https://docs.google.com/spreadsheets/d/1HHHzich7DSBRshUM52Oa4IALYVs_Kr4EQYWsYU_KzLg/edit?usp=sharing)
-- [Test Case](https://docs.google.com/spreadsheets/d/1siENwPxA8oznJOxxzRvNe0JyzJR890y4UB6dI8cOJgQ/edit?usp=sharing)
-- [Bug Report](https://docs.google.com/spreadsheets/d/1Q4bFDRCV8Ad1ow6YMq5RU1CE6hG92h_gueQNyJibQYY/edit?usp=sharing)
+- [Test Cases](https://docs.google.com/spreadsheets/d/1siENwPxA8oznJOxxzRvNe0JyzJR890y4UB6dI8cOJgQ/edit?usp=sharing)
+- [Bug Reports](https://docs.google.com/spreadsheets/d/1Q4bFDRCV8Ad1ow6YMq5RU1CE6hG92h_gueQNyJibQYY/edit?usp=sharing)
 - [End-to-End Testing with Cypress](https://github.com/mas-andri/QA-SauceDemo-CypressAutomation.git)
   <!-- - [Test Report]() -->
-  &nbsp;
+- test
+
+---
+
+### Book Store - API Testing Project
+
+The Book Store application by Demoqa.com is a sample web application designed for practicing and learning API testing and automation. It provides a set of RESTful API endpoints that simulate typical e-commerce features for managing users and books. This makes the Book Store application an ideal platform for exploring various API testing techniques, including positive/negative testing and authentication handling.
+
+Website URL: <https://demoqa.com/swagger/#/>
+
+- [Postman API Test](https://github.com/mas-andri/QA-BookStore-API-Testing.git)
+- [Test Scenarios](https://trello.com/b/yGyz8y2J)
+- [Test Cases](https://docs.google.com/spreadsheets/d/18clCsGfTYfmMuhUR6l9hCCKs-GUsoJMG9c4wkRBlfTE/edit?usp=sharing)
+- [Defect Reports](https://trello.com/b/dxkcIwnK)
+
+&nbsp;
 
 ## Learning & Certifications
 
