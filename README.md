@@ -50,7 +50,6 @@ Website URL: <https://www.saucedemo.com>
 - [Bug Reports](https://docs.google.com/spreadsheets/d/1Q4bFDRCV8Ad1ow6YMq5RU1CE6hG92h_gueQNyJibQYY/edit?usp=sharing)
 - [End-to-End Testing with Cypress](https://github.com/mas-andri/QA-SauceDemo-CypressAutomation.git)
   <!-- - [Test Report]() -->
-- test
 
 ---
 
